@@ -22,7 +22,7 @@ function renderTodos() {
     li.innerHTML = `
       <span class='todo-text'>${todo.text}</span>
       <button class='toggle-btn' onclick='toggleTodo(${todo.id})'>
-          ${todo.done ? "Undo" : "Done"}
+        ${todo.done ? "Undo" : "Done"}
       </button>
       <button class='delete-btn' onclick='deleteTodo(${
         todo.id
