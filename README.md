@@ -20,6 +20,8 @@ Contoh HTML:
 </html>
 ```
 
+---
+
 ### 2. **CSS (Cascading Style Sheets)**
 
 CSS adalah bahasa yang digunakan untuk mengatur tampilan atau gaya dari elemen-elemen HTML. CSS mengontrol elemen seperti warna, ukuran font, layout, margin, padding, dan masih banyak lagi. CSS membantu memisahkan konten dari tampilan.
@@ -36,6 +38,8 @@ h1 {
 }
 ```
 
+---
+
 ### 3. **JavaScript**
 
 JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web menjadi interaktif. Dengan JavaScript, kamu bisa menambahkan fitur seperti animasi, validasi formulir, manipulasi data, dan interaksi pengguna.
@@ -48,6 +52,8 @@ document.getElementById("demo").innerHTML = "Hello, World!";
 
 Di sini, JavaScript mengubah konten HTML dari elemen dengan ID "demo".
 
+---
+
 ### 4. **Array**
 
 Array adalah struktur data yang digunakan untuk menyimpan sekumpulan data dalam satu variabel. Data dalam array biasanya memiliki tipe yang sama dan disusun secara berurutan. Array memudahkan pengelolaan data yang banyak dan memungkinkan akses cepat ke elemen-elemen tertentu dengan menggunakan indeks.
@@ -58,6 +64,8 @@ Contoh Array:
 let buah = ["Apel", "Jeruk", "Mangga"];
 console.log(buah[0]); // Output: Apel
 ```
+
+---
 
 ### 5. **Todo List**
 
