@@ -1,6 +1,6 @@
-# Materi singkat mengenai **HTML**, **CSS**, **JavaScript**, **Array**, dan **Todo List**
+## Materi singkat mengenai **HTML**, **CSS**, **JavaScript**, **Array**, dan **Todo List**
 
-## 1. **HTML (Hypertext Markup Language)**
+### 1. **HTML (Hypertext Markup Language)**
 
 HTML adalah bahasa dasar yang digunakan untuk membuat struktur halaman web. HTML menggunakan "tag" untuk mengatur konten di halaman, seperti teks, gambar, video, dan elemen lainnya. Tag HTML memberi tahu browser bagaimana menampilkan konten.
 
@@ -20,7 +20,7 @@ Contoh HTML:
 </html>
 ```
 
-## 2. **CSS (Cascading Style Sheets)**
+### 2. **CSS (Cascading Style Sheets)**
 
 CSS adalah bahasa yang digunakan untuk mengatur tampilan atau gaya dari elemen-elemen HTML. CSS mengontrol elemen seperti warna, ukuran font, layout, margin, padding, dan masih banyak lagi. CSS membantu memisahkan konten dari tampilan.
 
@@ -36,7 +36,7 @@ h1 {
 }
 ```
 
-## 3. **JavaScript**
+### 3. **JavaScript**
 
 JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web menjadi interaktif. Dengan JavaScript, kamu bisa menambahkan fitur seperti animasi, validasi formulir, manipulasi data, dan interaksi pengguna.
 
@@ -48,7 +48,7 @@ document.getElementById("demo").innerHTML = "Hello, World!";
 
 Di sini, JavaScript mengubah konten HTML dari elemen dengan ID "demo".
 
-## 4. **Array**
+### 4. **Array**
 
 Array adalah struktur data yang digunakan untuk menyimpan sekumpulan data dalam satu variabel. Data dalam array biasanya memiliki tipe yang sama dan disusun secara berurutan. Array memudahkan pengelolaan data yang banyak dan memungkinkan akses cepat ke elemen-elemen tertentu dengan menggunakan indeks.
 
@@ -59,7 +59,7 @@ let buah = ["Apel", "Jeruk", "Mangga"];
 console.log(buah[0]); // Output: Apel
 ```
 
-## 5. **Todo List**
+### 5. **Todo List**
 
 **Todo List** adalah daftar tugas yang harus dilakukan. Dalam konteks aplikasi, todo list sering digunakan untuk membantu pengguna mencatat, mengorganisir, dan melacak tugas-tugas yang perlu diselesaikan. Biasanya, setiap tugas memiliki status (misalnya, selesai atau belum selesai), dan pengguna dapat menambahkan atau menghapus tugas sesuai kebutuhan.
 
